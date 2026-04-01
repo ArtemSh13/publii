@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Artem Shershnev – Fullstack QA Engineer",
+    "description": "",
+    "home_page_url": "https://ArtemSh13.github.io/publii",
+    "feed_url": "https://ArtemSh13.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ArtemSh13"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ArtemSh13.github.io/publii/sitemap.xml
